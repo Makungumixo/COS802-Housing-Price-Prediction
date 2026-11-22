@@ -1,10 +1,12 @@
+> Earlier draft source package: this LaTeX source and its validation records are not verified against the current author-supplied report. Compiling here recreates the earlier draft.
+
 # COS802 report package
 
 Author: Makungu Ndlovu, student 16153970, University of Pretoria.
 
 The report uses the official SIGKDD Explorations LaTeX class downloaded from https://www.kdd.org/formats/sigkddExp.cls on 17 November 2026. The course requirement is 6–8 pages; the report is seven pages including references. No journal submission is implied.
 
-Compile `COS802_Ndlovu_Report.tex` twice with pdfLaTeX from this directory. The checked PDF is included separately. Figures are already supplied; regenerating them is optional and requires pandas and matplotlib. `prepare_figures.py` does not train models.
+Compile `COS802_Ndlovu_Report.tex` twice with pdfLaTeX from this directory. The earlier compiled PDF has been replaced by the author-supplied report in the parent directory. Figures are already supplied; regenerating them is optional and requires pandas and matplotlib. `prepare_figures.py` does not train models.
 
 ## Template compatibility adjustment
 

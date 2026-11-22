@@ -69,10 +69,10 @@ For frozen XGBoost development CV, all engineered features achieved RMSE **$22,1
 Removing `Sale Type` and `Sale Condition` changed development CV RMSE from **$22,195 to $22,265** (about **+0.32%**).
 
 ## Deliverables
-- [Project report (PDF)](reports/kdd_report/COS802_Ndlovu_Report.pdf) — seven pages, with limitations and references.
-- [Report LaTeX source and build notes](reports/kdd_report/README.md).
-- [Presentation (PowerPoint)](presentation/COS802_Ndlovu_Presentation.pptx) and [PDF slides](presentation/COS802_Ndlovu_Slides.pdf).
-- [Rehearsal and Q&A notes](presentation/Rehearsal_and_QA.md).
+- [Current project report (PDF)](reports/u16153970_Ndlovu%20M_COS802%20Report.pdf).
+- [Current presentation (PowerPoint)](presentation/Ndlovu%20Makungu_u16153970_COS802.pptx).
+
+These are the author-supplied replacement files, preserved without content changes. The LaTeX package in `reports/kdd_report/` and rehearsal notes in `presentation/` belong to the earlier draft; they are retained as supporting material and are not verified sources or notes for the replacement documents. The earlier slide PDF has been removed to avoid presenting an outdated export as current.
 
 ## Methodological notes
 Notebook 04 changes structural-absence handling as well as adding ten features in the engineered arm. Its results compare complete pipelines and cannot isolate the effect of feature creation alone. Notebook 06 retains the absence handling during feature removal, but is post-hoc and was motivated by test-set SHAP; it is exploratory rather than independent confirmation.

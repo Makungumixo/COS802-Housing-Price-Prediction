@@ -1,3 +1,5 @@
+> Earlier draft rehearsal notes: these have not been reconciled with the replacement presentation.
+
 # Makungu Ndlovu | COS802 presentation rehearsal
 
 Aim for 6:35, leaving 25 seconds before the compulsory 7:00 stop. The times are rehearsal targets, not a measured delivery. Practise once aloud without reading. If running late at slide 5, omit the bootstrap explanation and retain the price-band comparison. Allow three minutes for questions.
