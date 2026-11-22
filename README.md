@@ -72,7 +72,7 @@ Removing `Sale Type` and `Sale Condition` changed development CV RMSE from **$22
 - [Current project report (PDF)](reports/u16153970_Ndlovu%20M_COS802%20Report.pdf).
 - [Current presentation (PowerPoint)](presentation/Ndlovu%20Makungu_u16153970_COS802.pptx).
 
-These are the author-supplied replacement files, preserved without content changes. The LaTeX package in `reports/kdd_report/` and rehearsal notes in `presentation/` belong to the earlier draft; they are retained as supporting material and are not verified sources or notes for the replacement documents. The earlier slide PDF has been removed to avoid presenting an outdated export as current.
+The current report and presentation are the author-supplied files, preserved without content changes.
 
 ## Methodological notes
 Notebook 04 changes structural-absence handling as well as adding ten features in the engineered arm. Its results compare complete pipelines and cannot isolate the effect of feature creation alone. Notebook 06 retains the absence handling during feature removal, but is post-hoc and was motivated by test-set SHAP; it is exploratory rather than independent confirmation.
@@ -94,9 +94,8 @@ COS802_PROJECT/
 │   ├── 05_interpretability_error_analysis.ipynb
 │   └── 06_robustness_sensitivity_analysis.ipynb
 ├── src/
-├── figures/
 ├── reports/
-├── references/
+├── presentation/
 ├── README.md
 └── requirements.txt
 ```
