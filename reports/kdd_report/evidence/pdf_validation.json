@@ -1,0 +1,24 @@
+{
+  "pages": 7,
+  "embedded_fonts": {
+    "/QODNYN+NimbusSanL-Bold": true,
+    "/VTKEDJ+NimbusSanL-Regu": true,
+    "/VQDPXV+NimbusRomNo9L-Medi": true,
+    "/HYQPWE+NimbusRomNo9L-Regu": true,
+    "/LONHCJ+CMMI9": true,
+    "/VHIYAC+CMR6": true,
+    "/ZASLUE+NimbusMonL-Regu": true,
+    "/VGGQQN+CMSY9": true,
+    "/XQGLKX+CMR9": true,
+    "/XVMAUG+NimbusRomNo9L-ReguItal": true,
+    "/DZGVRD+CMMI6": true,
+    "/QCVHIM+CMR5": true,
+    "/MKHONP+CMEX9": true,
+    "/YXYNNJ+CMSY6": true,
+    "/LTNKSK+CMMI8": true,
+    "/TMCDBM+CMSY8": true,
+    "/ITRITC+CMR8": true
+  },
+  "overfull_boxes": 0,
+  "undefined_references": 0
+}

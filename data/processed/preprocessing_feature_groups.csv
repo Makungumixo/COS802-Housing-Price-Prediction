@@ -1,0 +1,169 @@
+representation,feature_group,feature
+original,numeric,MS SubClass
+original,numeric,Lot Frontage
+original,numeric,Lot Area
+original,numeric,Overall Qual
+original,numeric,Overall Cond
+original,numeric,Year Built
+original,numeric,Year Remod/Add
+original,numeric,Mas Vnr Area
+original,numeric,BsmtFin SF 1
+original,numeric,BsmtFin SF 2
+original,numeric,Bsmt Unf SF
+original,numeric,Total Bsmt SF
+original,numeric,1st Flr SF
+original,numeric,2nd Flr SF
+original,numeric,Low Qual Fin SF
+original,numeric,Gr Liv Area
+original,numeric,Bsmt Full Bath
+original,numeric,Bsmt Half Bath
+original,numeric,Full Bath
+original,numeric,Half Bath
+original,numeric,Bedroom AbvGr
+original,numeric,Kitchen AbvGr
+original,numeric,TotRms AbvGrd
+original,numeric,Fireplaces
+original,numeric,Garage Yr Blt
+original,numeric,Garage Cars
+original,numeric,Garage Area
+original,numeric,Wood Deck SF
+original,numeric,Open Porch SF
+original,numeric,Enclosed Porch
+original,numeric,3Ssn Porch
+original,numeric,Screen Porch
+original,numeric,Pool Area
+original,numeric,Misc Val
+original,numeric,Mo Sold
+original,numeric,Yr Sold
+original,ordinal,Exter Qual
+original,ordinal,Exter Cond
+original,ordinal,Bsmt Qual
+original,ordinal,Bsmt Cond
+original,ordinal,Heating QC
+original,ordinal,Kitchen Qual
+original,ordinal,Fireplace Qu
+original,ordinal,Garage Qual
+original,ordinal,Garage Cond
+original,ordinal,Pool QC
+original,ordinal,Bsmt Exposure
+original,ordinal,BsmtFin Type 1
+original,ordinal,BsmtFin Type 2
+original,ordinal,Functional
+original,ordinal,Garage Finish
+original,ordinal,Paved Drive
+original,nominal,MS Zoning
+original,nominal,Street
+original,nominal,Alley
+original,nominal,Lot Shape
+original,nominal,Land Contour
+original,nominal,Utilities
+original,nominal,Lot Config
+original,nominal,Land Slope
+original,nominal,Neighborhood
+original,nominal,Condition 1
+original,nominal,Condition 2
+original,nominal,Bldg Type
+original,nominal,House Style
+original,nominal,Roof Style
+original,nominal,Roof Matl
+original,nominal,Exterior 1st
+original,nominal,Exterior 2nd
+original,nominal,Mas Vnr Type
+original,nominal,Foundation
+original,nominal,Heating
+original,nominal,Central Air
+original,nominal,Electrical
+original,nominal,Garage Type
+original,nominal,Fence
+original,nominal,Misc Feature
+original,nominal,Sale Type
+original,nominal,Sale Condition
+engineered,numeric,MS SubClass
+engineered,numeric,Lot Frontage
+engineered,numeric,Lot Area
+engineered,numeric,Overall Qual
+engineered,numeric,Overall Cond
+engineered,numeric,Year Built
+engineered,numeric,Year Remod/Add
+engineered,numeric,Mas Vnr Area
+engineered,numeric,BsmtFin SF 1
+engineered,numeric,BsmtFin SF 2
+engineered,numeric,Bsmt Unf SF
+engineered,numeric,Total Bsmt SF
+engineered,numeric,1st Flr SF
+engineered,numeric,2nd Flr SF
+engineered,numeric,Low Qual Fin SF
+engineered,numeric,Gr Liv Area
+engineered,numeric,Bsmt Full Bath
+engineered,numeric,Bsmt Half Bath
+engineered,numeric,Full Bath
+engineered,numeric,Half Bath
+engineered,numeric,Bedroom AbvGr
+engineered,numeric,Kitchen AbvGr
+engineered,numeric,TotRms AbvGrd
+engineered,numeric,Fireplaces
+engineered,numeric,Garage Yr Blt
+engineered,numeric,Garage Cars
+engineered,numeric,Garage Area
+engineered,numeric,Wood Deck SF
+engineered,numeric,Open Porch SF
+engineered,numeric,Enclosed Porch
+engineered,numeric,3Ssn Porch
+engineered,numeric,Screen Porch
+engineered,numeric,Pool Area
+engineered,numeric,Misc Val
+engineered,numeric,Mo Sold
+engineered,numeric,Yr Sold
+engineered,numeric,HouseAge
+engineered,numeric,RemodAge
+engineered,numeric,TotalSF
+engineered,numeric,TotalBathrooms
+engineered,numeric,TotalPorchSF
+engineered,numeric,HasGarage
+engineered,numeric,HasBasement
+engineered,numeric,HasFireplace
+engineered,numeric,HasPool
+engineered,numeric,QualLivArea
+engineered,ordinal,Exter Qual
+engineered,ordinal,Exter Cond
+engineered,ordinal,Bsmt Qual
+engineered,ordinal,Bsmt Cond
+engineered,ordinal,Heating QC
+engineered,ordinal,Kitchen Qual
+engineered,ordinal,Fireplace Qu
+engineered,ordinal,Garage Qual
+engineered,ordinal,Garage Cond
+engineered,ordinal,Pool QC
+engineered,ordinal,Bsmt Exposure
+engineered,ordinal,BsmtFin Type 1
+engineered,ordinal,BsmtFin Type 2
+engineered,ordinal,Functional
+engineered,ordinal,Garage Finish
+engineered,ordinal,Paved Drive
+engineered,nominal,MS Zoning
+engineered,nominal,Street
+engineered,nominal,Alley
+engineered,nominal,Lot Shape
+engineered,nominal,Land Contour
+engineered,nominal,Utilities
+engineered,nominal,Lot Config
+engineered,nominal,Land Slope
+engineered,nominal,Neighborhood
+engineered,nominal,Condition 1
+engineered,nominal,Condition 2
+engineered,nominal,Bldg Type
+engineered,nominal,House Style
+engineered,nominal,Roof Style
+engineered,nominal,Roof Matl
+engineered,nominal,Exterior 1st
+engineered,nominal,Exterior 2nd
+engineered,nominal,Mas Vnr Type
+engineered,nominal,Foundation
+engineered,nominal,Heating
+engineered,nominal,Central Air
+engineered,nominal,Electrical
+engineered,nominal,Garage Type
+engineered,nominal,Fence
+engineered,nominal,Misc Feature
+engineered,nominal,Sale Type
+engineered,nominal,Sale Condition

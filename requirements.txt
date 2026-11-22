@@ -1,0 +1,7 @@
+# COS802 reference environment (Google Colab / Python 3.11+)
+numpy>=2.0,<3
+pandas>=2.2,<3
+matplotlib>=3.8,<4
+scikit-learn>=1.6,<2
+xgboost>=3.0,<4
+shap>=0.47,<1

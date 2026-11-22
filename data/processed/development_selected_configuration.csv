@@ -1,0 +1,2 @@
+Model,Representation,Config,Params,MAE_mean,MAE_sd,RMSE_mean,RMSE_sd,R2_mean,R2_sd
+XGBoost,Engineered,4,"{'n_estimators': 400, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.9, 'colsample_bytree': 0.9, 'reg_lambda': 5.0}",13516.278346399014,1230.579635655232,22195.446386744698,3521.7445962058573,0.9216638584703716,0.01716069171810899
